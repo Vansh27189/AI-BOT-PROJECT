@@ -1,4 +1,4 @@
-# 🎯 DCE Virtual Assistant Bot
+# 🎯 Virtual Assistant Bot
 
 This project is a **Virtual Assistant Chatbot** designed for **COLLEGE AND SCHOOL** to provide instant support and information to students, faculty, and visitors.
 
