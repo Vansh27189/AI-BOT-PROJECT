@@ -1,6 +1,6 @@
 # 🎯 DCE Virtual Assistant Bot
 
-This project is a **Virtual Assistant Chatbot** designed for **Dronacharya College of Engineering** to provide instant support and information to students, faculty, and visitors.
+This project is a **Virtual Assistant Chatbot** designed for **COLLEGE AND SCHOOL** to provide instant support and information to students, faculty, and visitors.
 
 ### 🔑 Features:
 - Automated Chat Support 🤖
@@ -17,7 +17,7 @@ This project is a **Virtual Assistant Chatbot** designed for **Dronacharya Colle
 - Voiceflow Chatbot API
 
 ### 🌐 Live Demo
-👉 [DCE Virtual Assistant]()
+👉 [Virtual Assistant]()
 
 ### How to Use?
 1. Download or Clone the repository.
